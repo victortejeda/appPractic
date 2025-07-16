@@ -219,11 +219,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **Victor Tejeda**
 - GitHub: [@victortejeda](https://github.com/victortejeda)
 
-## 📞 Contacto
-
-- Email: victor.tejeda@example.com
-- LinkedIn: [Victor Tejeda](https://linkedin.com/in/victortejeda)
-
 ---
 
 **Nota**: Esta aplicación es un proyecto educativo para practicar desarrollo Android con Kotlin y Jetpack Compose. 
